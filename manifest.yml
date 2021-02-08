@@ -1,0 +1,7 @@
+---
+name: FastQC
+category: BioGrids Applications
+subcategory: GUIs
+role: batch_connect
+description:
+  This app will launch a BioGrids FastQC.
